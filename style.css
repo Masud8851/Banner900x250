@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-950{
+    height: 250px; 
+    width: 900px;
+    background-image: linear-gradient(to right, red , yellow);
+    border: 5px solid maroon;
+    max-width: 100%;
+    position: absolute;
+}
+
+
+img{
+    object-fit: contain;
+}
+
